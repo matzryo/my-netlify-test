@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        my-netlify-test
+        my-netlify-test(staging)
       </h1>
       <h2 class="subtitle">
-        My Netlify training with Nuxt.js
+        My Netlify training with Nuxt.js(ステージングです)
       </h2>
       <div class="links">
         <a
